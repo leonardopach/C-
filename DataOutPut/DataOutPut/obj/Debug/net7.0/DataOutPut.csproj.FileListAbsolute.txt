@@ -1,0 +1,15 @@
+C:\temp\DataOutPut\DataOutPut\bin\Debug\net7.0\DataOutPut.exe
+C:\temp\DataOutPut\DataOutPut\bin\Debug\net7.0\DataOutPut.deps.json
+C:\temp\DataOutPut\DataOutPut\bin\Debug\net7.0\DataOutPut.runtimeconfig.json
+C:\temp\DataOutPut\DataOutPut\bin\Debug\net7.0\DataOutPut.dll
+C:\temp\DataOutPut\DataOutPut\bin\Debug\net7.0\DataOutPut.pdb
+C:\temp\DataOutPut\DataOutPut\obj\Debug\net7.0\DataOutPut.csproj.AssemblyReference.cache
+C:\temp\DataOutPut\DataOutPut\obj\Debug\net7.0\DataOutPut.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\DataOutPut\DataOutPut\obj\Debug\net7.0\DataOutPut.AssemblyInfoInputs.cache
+C:\temp\DataOutPut\DataOutPut\obj\Debug\net7.0\DataOutPut.AssemblyInfo.cs
+C:\temp\DataOutPut\DataOutPut\obj\Debug\net7.0\DataOutPut.csproj.CoreCompileInputs.cache
+C:\temp\DataOutPut\DataOutPut\obj\Debug\net7.0\DataOutPut.dll
+C:\temp\DataOutPut\DataOutPut\obj\Debug\net7.0\refint\DataOutPut.dll
+C:\temp\DataOutPut\DataOutPut\obj\Debug\net7.0\DataOutPut.pdb
+C:\temp\DataOutPut\DataOutPut\obj\Debug\net7.0\DataOutPut.genruntimeconfig.cache
+C:\temp\DataOutPut\DataOutPut\obj\Debug\net7.0\ref\DataOutPut.dll
