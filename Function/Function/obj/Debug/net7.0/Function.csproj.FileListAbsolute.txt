@@ -1,0 +1,15 @@
+C:\temp\C#\Function\Function\bin\Debug\net7.0\Function.exe
+C:\temp\C#\Function\Function\bin\Debug\net7.0\Function.deps.json
+C:\temp\C#\Function\Function\bin\Debug\net7.0\Function.runtimeconfig.json
+C:\temp\C#\Function\Function\bin\Debug\net7.0\Function.dll
+C:\temp\C#\Function\Function\bin\Debug\net7.0\Function.pdb
+C:\temp\C#\Function\Function\obj\Debug\net7.0\Function.csproj.AssemblyReference.cache
+C:\temp\C#\Function\Function\obj\Debug\net7.0\Function.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\C#\Function\Function\obj\Debug\net7.0\Function.AssemblyInfoInputs.cache
+C:\temp\C#\Function\Function\obj\Debug\net7.0\Function.AssemblyInfo.cs
+C:\temp\C#\Function\Function\obj\Debug\net7.0\Function.csproj.CoreCompileInputs.cache
+C:\temp\C#\Function\Function\obj\Debug\net7.0\Function.dll
+C:\temp\C#\Function\Function\obj\Debug\net7.0\refint\Function.dll
+C:\temp\C#\Function\Function\obj\Debug\net7.0\Function.pdb
+C:\temp\C#\Function\Function\obj\Debug\net7.0\Function.genruntimeconfig.cache
+C:\temp\C#\Function\Function\obj\Debug\net7.0\ref\Function.dll

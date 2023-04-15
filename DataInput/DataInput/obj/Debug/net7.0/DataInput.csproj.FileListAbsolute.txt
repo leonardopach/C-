@@ -1,0 +1,15 @@
+C:\temp\C#\DataInput\DataInput\bin\Debug\net7.0\DataInput.exe
+C:\temp\C#\DataInput\DataInput\bin\Debug\net7.0\DataInput.deps.json
+C:\temp\C#\DataInput\DataInput\bin\Debug\net7.0\DataInput.runtimeconfig.json
+C:\temp\C#\DataInput\DataInput\bin\Debug\net7.0\DataInput.dll
+C:\temp\C#\DataInput\DataInput\bin\Debug\net7.0\DataInput.pdb
+C:\temp\C#\DataInput\DataInput\obj\Debug\net7.0\DataInput.csproj.AssemblyReference.cache
+C:\temp\C#\DataInput\DataInput\obj\Debug\net7.0\DataInput.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\C#\DataInput\DataInput\obj\Debug\net7.0\DataInput.AssemblyInfoInputs.cache
+C:\temp\C#\DataInput\DataInput\obj\Debug\net7.0\DataInput.AssemblyInfo.cs
+C:\temp\C#\DataInput\DataInput\obj\Debug\net7.0\DataInput.csproj.CoreCompileInputs.cache
+C:\temp\C#\DataInput\DataInput\obj\Debug\net7.0\DataInput.dll
+C:\temp\C#\DataInput\DataInput\obj\Debug\net7.0\refint\DataInput.dll
+C:\temp\C#\DataInput\DataInput\obj\Debug\net7.0\DataInput.pdb
+C:\temp\C#\DataInput\DataInput\obj\Debug\net7.0\DataInput.genruntimeconfig.cache
+C:\temp\C#\DataInput\DataInput\obj\Debug\net7.0\ref\DataInput.dll

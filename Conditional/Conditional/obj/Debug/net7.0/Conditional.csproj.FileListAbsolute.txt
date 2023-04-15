@@ -1,0 +1,15 @@
+C:\temp\C#\Conditional\Conditional\obj\Debug\net7.0\Conditional.csproj.AssemblyReference.cache
+C:\temp\C#\Conditional\Conditional\obj\Debug\net7.0\Conditional.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\C#\Conditional\Conditional\obj\Debug\net7.0\Conditional.AssemblyInfoInputs.cache
+C:\temp\C#\Conditional\Conditional\obj\Debug\net7.0\Conditional.AssemblyInfo.cs
+C:\temp\C#\Conditional\Conditional\obj\Debug\net7.0\Conditional.csproj.CoreCompileInputs.cache
+C:\temp\C#\Conditional\Conditional\bin\Debug\net7.0\Conditional.exe
+C:\temp\C#\Conditional\Conditional\bin\Debug\net7.0\Conditional.deps.json
+C:\temp\C#\Conditional\Conditional\bin\Debug\net7.0\Conditional.runtimeconfig.json
+C:\temp\C#\Conditional\Conditional\bin\Debug\net7.0\Conditional.dll
+C:\temp\C#\Conditional\Conditional\bin\Debug\net7.0\Conditional.pdb
+C:\temp\C#\Conditional\Conditional\obj\Debug\net7.0\Conditional.dll
+C:\temp\C#\Conditional\Conditional\obj\Debug\net7.0\refint\Conditional.dll
+C:\temp\C#\Conditional\Conditional\obj\Debug\net7.0\Conditional.pdb
+C:\temp\C#\Conditional\Conditional\obj\Debug\net7.0\Conditional.genruntimeconfig.cache
+C:\temp\C#\Conditional\Conditional\obj\Debug\net7.0\ref\Conditional.dll
