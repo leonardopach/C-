@@ -1,0 +1,15 @@
+D:\Temp\C-\While\While\bin\Debug\net7.0\While.exe
+D:\Temp\C-\While\While\bin\Debug\net7.0\While.deps.json
+D:\Temp\C-\While\While\bin\Debug\net7.0\While.runtimeconfig.json
+D:\Temp\C-\While\While\bin\Debug\net7.0\While.dll
+D:\Temp\C-\While\While\bin\Debug\net7.0\While.pdb
+D:\Temp\C-\While\While\obj\Debug\net7.0\While.csproj.AssemblyReference.cache
+D:\Temp\C-\While\While\obj\Debug\net7.0\While.GeneratedMSBuildEditorConfig.editorconfig
+D:\Temp\C-\While\While\obj\Debug\net7.0\While.AssemblyInfoInputs.cache
+D:\Temp\C-\While\While\obj\Debug\net7.0\While.AssemblyInfo.cs
+D:\Temp\C-\While\While\obj\Debug\net7.0\While.csproj.CoreCompileInputs.cache
+D:\Temp\C-\While\While\obj\Debug\net7.0\While.dll
+D:\Temp\C-\While\While\obj\Debug\net7.0\refint\While.dll
+D:\Temp\C-\While\While\obj\Debug\net7.0\While.pdb
+D:\Temp\C-\While\While\obj\Debug\net7.0\While.genruntimeconfig.cache
+D:\Temp\C-\While\While\obj\Debug\net7.0\ref\While.dll

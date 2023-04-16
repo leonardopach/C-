@@ -1,0 +1,15 @@
+D:\Temp\C-\StructFor\StructFor\bin\Debug\net7.0\StructFor.exe
+D:\Temp\C-\StructFor\StructFor\bin\Debug\net7.0\StructFor.deps.json
+D:\Temp\C-\StructFor\StructFor\bin\Debug\net7.0\StructFor.runtimeconfig.json
+D:\Temp\C-\StructFor\StructFor\bin\Debug\net7.0\StructFor.dll
+D:\Temp\C-\StructFor\StructFor\bin\Debug\net7.0\StructFor.pdb
+D:\Temp\C-\StructFor\StructFor\obj\Debug\net7.0\StructFor.csproj.AssemblyReference.cache
+D:\Temp\C-\StructFor\StructFor\obj\Debug\net7.0\StructFor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Temp\C-\StructFor\StructFor\obj\Debug\net7.0\StructFor.AssemblyInfoInputs.cache
+D:\Temp\C-\StructFor\StructFor\obj\Debug\net7.0\StructFor.AssemblyInfo.cs
+D:\Temp\C-\StructFor\StructFor\obj\Debug\net7.0\StructFor.csproj.CoreCompileInputs.cache
+D:\Temp\C-\StructFor\StructFor\obj\Debug\net7.0\StructFor.dll
+D:\Temp\C-\StructFor\StructFor\obj\Debug\net7.0\refint\StructFor.dll
+D:\Temp\C-\StructFor\StructFor\obj\Debug\net7.0\StructFor.pdb
+D:\Temp\C-\StructFor\StructFor\obj\Debug\net7.0\StructFor.genruntimeconfig.cache
+D:\Temp\C-\StructFor\StructFor\obj\Debug\net7.0\ref\StructFor.dll

@@ -1,0 +1,15 @@
+D:\Temp\C-\Construct\Construct\bin\Debug\net7.0\Construct.exe
+D:\Temp\C-\Construct\Construct\bin\Debug\net7.0\Construct.deps.json
+D:\Temp\C-\Construct\Construct\bin\Debug\net7.0\Construct.runtimeconfig.json
+D:\Temp\C-\Construct\Construct\bin\Debug\net7.0\Construct.dll
+D:\Temp\C-\Construct\Construct\bin\Debug\net7.0\Construct.pdb
+D:\Temp\C-\Construct\Construct\obj\Debug\net7.0\Construct.csproj.AssemblyReference.cache
+D:\Temp\C-\Construct\Construct\obj\Debug\net7.0\Construct.GeneratedMSBuildEditorConfig.editorconfig
+D:\Temp\C-\Construct\Construct\obj\Debug\net7.0\Construct.AssemblyInfoInputs.cache
+D:\Temp\C-\Construct\Construct\obj\Debug\net7.0\Construct.AssemblyInfo.cs
+D:\Temp\C-\Construct\Construct\obj\Debug\net7.0\Construct.csproj.CoreCompileInputs.cache
+D:\Temp\C-\Construct\Construct\obj\Debug\net7.0\Construct.dll
+D:\Temp\C-\Construct\Construct\obj\Debug\net7.0\refint\Construct.dll
+D:\Temp\C-\Construct\Construct\obj\Debug\net7.0\Construct.pdb
+D:\Temp\C-\Construct\Construct\obj\Debug\net7.0\Construct.genruntimeconfig.cache
+D:\Temp\C-\Construct\Construct\obj\Debug\net7.0\ref\Construct.dll
