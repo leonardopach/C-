@@ -1,0 +1,15 @@
+D:\Temp\C-\Encapsulamento\Encapsulamento\bin\Debug\net7.0\Encapsulamento.exe
+D:\Temp\C-\Encapsulamento\Encapsulamento\bin\Debug\net7.0\Encapsulamento.deps.json
+D:\Temp\C-\Encapsulamento\Encapsulamento\bin\Debug\net7.0\Encapsulamento.runtimeconfig.json
+D:\Temp\C-\Encapsulamento\Encapsulamento\bin\Debug\net7.0\Encapsulamento.dll
+D:\Temp\C-\Encapsulamento\Encapsulamento\bin\Debug\net7.0\Encapsulamento.pdb
+D:\Temp\C-\Encapsulamento\Encapsulamento\obj\Debug\net7.0\Encapsulamento.csproj.AssemblyReference.cache
+D:\Temp\C-\Encapsulamento\Encapsulamento\obj\Debug\net7.0\Encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+D:\Temp\C-\Encapsulamento\Encapsulamento\obj\Debug\net7.0\Encapsulamento.AssemblyInfoInputs.cache
+D:\Temp\C-\Encapsulamento\Encapsulamento\obj\Debug\net7.0\Encapsulamento.AssemblyInfo.cs
+D:\Temp\C-\Encapsulamento\Encapsulamento\obj\Debug\net7.0\Encapsulamento.csproj.CoreCompileInputs.cache
+D:\Temp\C-\Encapsulamento\Encapsulamento\obj\Debug\net7.0\Encapsulamento.dll
+D:\Temp\C-\Encapsulamento\Encapsulamento\obj\Debug\net7.0\refint\Encapsulamento.dll
+D:\Temp\C-\Encapsulamento\Encapsulamento\obj\Debug\net7.0\Encapsulamento.pdb
+D:\Temp\C-\Encapsulamento\Encapsulamento\obj\Debug\net7.0\Encapsulamento.genruntimeconfig.cache
+D:\Temp\C-\Encapsulamento\Encapsulamento\obj\Debug\net7.0\ref\Encapsulamento.dll

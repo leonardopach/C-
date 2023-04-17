@@ -10,10 +10,16 @@ namespace Construct {
             string? nome = Console.ReadLine();
             Console.Write("Preço: ");
             double preco = double.Parse(Console.ReadLine() ?? "0", CultureInfo.InvariantCulture);
-            Console.Write("Quantidade no estoque: ");
-            int qtd = int.Parse(Console.ReadLine() ?? "0");
+            //Console.Write("Quantidade no estoque: ");
+            //int qtd = int.Parse(Console.ReadLine() ?? "0");
 
-            Produto p = new Produto(nome, preco, qtd);
+
+            Produto p = new Produto(nome, preco);
+            //Produto p = new Produto() {
+            //    Nome = "TV",
+            //    Preco = 900.0,
+            //    Quantidade = 9
+            //};
 
             Console.WriteLine();
             Console.WriteLine("Dados do produto: " + p);

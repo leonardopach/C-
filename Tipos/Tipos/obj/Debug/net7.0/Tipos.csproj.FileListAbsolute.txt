@@ -1,0 +1,15 @@
+D:\Temp\C-\Tipos\Tipos\bin\Debug\net7.0\Tipos.exe
+D:\Temp\C-\Tipos\Tipos\bin\Debug\net7.0\Tipos.deps.json
+D:\Temp\C-\Tipos\Tipos\bin\Debug\net7.0\Tipos.runtimeconfig.json
+D:\Temp\C-\Tipos\Tipos\bin\Debug\net7.0\Tipos.dll
+D:\Temp\C-\Tipos\Tipos\bin\Debug\net7.0\Tipos.pdb
+D:\Temp\C-\Tipos\Tipos\obj\Debug\net7.0\Tipos.csproj.AssemblyReference.cache
+D:\Temp\C-\Tipos\Tipos\obj\Debug\net7.0\Tipos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Temp\C-\Tipos\Tipos\obj\Debug\net7.0\Tipos.AssemblyInfoInputs.cache
+D:\Temp\C-\Tipos\Tipos\obj\Debug\net7.0\Tipos.AssemblyInfo.cs
+D:\Temp\C-\Tipos\Tipos\obj\Debug\net7.0\Tipos.csproj.CoreCompileInputs.cache
+D:\Temp\C-\Tipos\Tipos\obj\Debug\net7.0\Tipos.dll
+D:\Temp\C-\Tipos\Tipos\obj\Debug\net7.0\refint\Tipos.dll
+D:\Temp\C-\Tipos\Tipos\obj\Debug\net7.0\Tipos.pdb
+D:\Temp\C-\Tipos\Tipos\obj\Debug\net7.0\Tipos.genruntimeconfig.cache
+D:\Temp\C-\Tipos\Tipos\obj\Debug\net7.0\ref\Tipos.dll
