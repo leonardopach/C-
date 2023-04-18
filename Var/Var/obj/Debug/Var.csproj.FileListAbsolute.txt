@@ -1,0 +1,8 @@
+C:\temp\C#\Var\Var\bin\Debug\Var.exe.config
+C:\temp\C#\Var\Var\bin\Debug\Var.exe
+C:\temp\C#\Var\Var\bin\Debug\Var.pdb
+C:\temp\C#\Var\Var\obj\Debug\Var.csproj.AssemblyReference.cache
+C:\temp\C#\Var\Var\obj\Debug\Var.csproj.SuggestedBindingRedirects.cache
+C:\temp\C#\Var\Var\obj\Debug\Var.csproj.CoreCompileInputs.cache
+C:\temp\C#\Var\Var\obj\Debug\Var.exe
+C:\temp\C#\Var\Var\obj\Debug\Var.pdb

@@ -1,0 +1,15 @@
+C:\temp\C#\REF\REF\bin\Debug\net7.0\REF.exe
+C:\temp\C#\REF\REF\bin\Debug\net7.0\REF.deps.json
+C:\temp\C#\REF\REF\bin\Debug\net7.0\REF.runtimeconfig.json
+C:\temp\C#\REF\REF\bin\Debug\net7.0\REF.dll
+C:\temp\C#\REF\REF\bin\Debug\net7.0\REF.pdb
+C:\temp\C#\REF\REF\obj\Debug\net7.0\REF.csproj.AssemblyReference.cache
+C:\temp\C#\REF\REF\obj\Debug\net7.0\REF.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\C#\REF\REF\obj\Debug\net7.0\REF.AssemblyInfoInputs.cache
+C:\temp\C#\REF\REF\obj\Debug\net7.0\REF.AssemblyInfo.cs
+C:\temp\C#\REF\REF\obj\Debug\net7.0\REF.csproj.CoreCompileInputs.cache
+C:\temp\C#\REF\REF\obj\Debug\net7.0\REF.dll
+C:\temp\C#\REF\REF\obj\Debug\net7.0\refint\REF.dll
+C:\temp\C#\REF\REF\obj\Debug\net7.0\REF.pdb
+C:\temp\C#\REF\REF\obj\Debug\net7.0\REF.genruntimeconfig.cache
+C:\temp\C#\REF\REF\obj\Debug\net7.0\ref\REF.dll

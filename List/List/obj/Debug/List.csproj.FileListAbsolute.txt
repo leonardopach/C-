@@ -1,0 +1,8 @@
+C:\temp\C#\List\List\bin\Debug\List.exe.config
+C:\temp\C#\List\List\bin\Debug\List.exe
+C:\temp\C#\List\List\bin\Debug\List.pdb
+C:\temp\C#\List\List\obj\Debug\List.csproj.AssemblyReference.cache
+C:\temp\C#\List\List\obj\Debug\List.csproj.SuggestedBindingRedirects.cache
+C:\temp\C#\List\List\obj\Debug\List.csproj.CoreCompileInputs.cache
+C:\temp\C#\List\List\obj\Debug\List.exe
+C:\temp\C#\List\List\obj\Debug\List.pdb

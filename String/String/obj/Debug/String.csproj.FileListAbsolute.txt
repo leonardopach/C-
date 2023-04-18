@@ -1,0 +1,8 @@
+C:\temp\C#\String\String\bin\Debug\String.exe.config
+C:\temp\C#\String\String\bin\Debug\String.exe
+C:\temp\C#\String\String\bin\Debug\String.pdb
+C:\temp\C#\String\String\obj\Debug\String.csproj.AssemblyReference.cache
+C:\temp\C#\String\String\obj\Debug\String.csproj.SuggestedBindingRedirects.cache
+C:\temp\C#\String\String\obj\Debug\String.csproj.CoreCompileInputs.cache
+C:\temp\C#\String\String\obj\Debug\String.exe
+C:\temp\C#\String\String\obj\Debug\String.pdb

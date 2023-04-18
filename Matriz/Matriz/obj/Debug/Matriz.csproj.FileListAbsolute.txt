@@ -1,0 +1,8 @@
+C:\temp\C#\Matriz\Matriz\bin\Debug\Matriz.exe.config
+C:\temp\C#\Matriz\Matriz\bin\Debug\Matriz.exe
+C:\temp\C#\Matriz\Matriz\bin\Debug\Matriz.pdb
+C:\temp\C#\Matriz\Matriz\obj\Debug\Matriz.csproj.AssemblyReference.cache
+C:\temp\C#\Matriz\Matriz\obj\Debug\Matriz.csproj.SuggestedBindingRedirects.cache
+C:\temp\C#\Matriz\Matriz\obj\Debug\Matriz.csproj.CoreCompileInputs.cache
+C:\temp\C#\Matriz\Matriz\obj\Debug\Matriz.exe
+C:\temp\C#\Matriz\Matriz\obj\Debug\Matriz.pdb

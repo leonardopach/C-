@@ -1,0 +1,8 @@
+C:\temp\C#\CondicionalTernaria\CondicionalTernaria\bin\Debug\CondicionalTernaria.exe.config
+C:\temp\C#\CondicionalTernaria\CondicionalTernaria\bin\Debug\CondicionalTernaria.exe
+C:\temp\C#\CondicionalTernaria\CondicionalTernaria\bin\Debug\CondicionalTernaria.pdb
+C:\temp\C#\CondicionalTernaria\CondicionalTernaria\obj\Debug\CondicionalTernaria.csproj.AssemblyReference.cache
+C:\temp\C#\CondicionalTernaria\CondicionalTernaria\obj\Debug\CondicionalTernaria.csproj.SuggestedBindingRedirects.cache
+C:\temp\C#\CondicionalTernaria\CondicionalTernaria\obj\Debug\CondicionalTernaria.csproj.CoreCompileInputs.cache
+C:\temp\C#\CondicionalTernaria\CondicionalTernaria\obj\Debug\CondicionalTernaria.exe
+C:\temp\C#\CondicionalTernaria\CondicionalTernaria\obj\Debug\CondicionalTernaria.pdb

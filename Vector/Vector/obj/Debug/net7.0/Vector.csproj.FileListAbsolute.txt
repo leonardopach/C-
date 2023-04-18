@@ -1,0 +1,15 @@
+C:\temp\C#\Vector\Vector\bin\Debug\net7.0\Vector.exe
+C:\temp\C#\Vector\Vector\bin\Debug\net7.0\Vector.deps.json
+C:\temp\C#\Vector\Vector\bin\Debug\net7.0\Vector.runtimeconfig.json
+C:\temp\C#\Vector\Vector\bin\Debug\net7.0\Vector.dll
+C:\temp\C#\Vector\Vector\bin\Debug\net7.0\Vector.pdb
+C:\temp\C#\Vector\Vector\obj\Debug\net7.0\Vector.csproj.AssemblyReference.cache
+C:\temp\C#\Vector\Vector\obj\Debug\net7.0\Vector.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\C#\Vector\Vector\obj\Debug\net7.0\Vector.AssemblyInfoInputs.cache
+C:\temp\C#\Vector\Vector\obj\Debug\net7.0\Vector.AssemblyInfo.cs
+C:\temp\C#\Vector\Vector\obj\Debug\net7.0\Vector.csproj.CoreCompileInputs.cache
+C:\temp\C#\Vector\Vector\obj\Debug\net7.0\Vector.dll
+C:\temp\C#\Vector\Vector\obj\Debug\net7.0\refint\Vector.dll
+C:\temp\C#\Vector\Vector\obj\Debug\net7.0\Vector.pdb
+C:\temp\C#\Vector\Vector\obj\Debug\net7.0\Vector.genruntimeconfig.cache
+C:\temp\C#\Vector\Vector\obj\Debug\net7.0\ref\Vector.dll

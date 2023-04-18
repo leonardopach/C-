@@ -1,0 +1,8 @@
+C:\temp\C#\ExercicioList\ExercicioList\bin\Debug\ExercicioList.exe.config
+C:\temp\C#\ExercicioList\ExercicioList\bin\Debug\ExercicioList.exe
+C:\temp\C#\ExercicioList\ExercicioList\bin\Debug\ExercicioList.pdb
+C:\temp\C#\ExercicioList\ExercicioList\obj\Debug\ExercicioList.csproj.AssemblyReference.cache
+C:\temp\C#\ExercicioList\ExercicioList\obj\Debug\ExercicioList.csproj.SuggestedBindingRedirects.cache
+C:\temp\C#\ExercicioList\ExercicioList\obj\Debug\ExercicioList.csproj.CoreCompileInputs.cache
+C:\temp\C#\ExercicioList\ExercicioList\obj\Debug\ExercicioList.exe
+C:\temp\C#\ExercicioList\ExercicioList\obj\Debug\ExercicioList.pdb

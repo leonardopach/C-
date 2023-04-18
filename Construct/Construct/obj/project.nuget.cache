@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/gNAtnv/w5s0vK/Jlv8bLzGf7tcjO4KTrl8KYZvsvJf//L6MfhTr/2amPn0sUv7J109RiLRceRWfNKD4vQyd7Q==",
+  "dgSpecHash": "SFwCCFpriEVMAW6hrZoingi2C7Qs9U40lv1onjKgPV9W9qdt+tC5UWRCJPUWZkxd+9Bz9q1rsJyTLRUu1eEzmA==",
   "success": true,
-  "projectFilePath": "D:\\Temp\\C-\\Construct\\Construct\\Construct.csproj",
+  "projectFilePath": "C:\\temp\\C#\\Construct\\Construct\\Construct.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Temp\\C-\\Construct\\Construct\\Construct.csproj": {}
+    "C:\\temp\\C#\\Construct\\Construct\\Construct.csproj": {}
   },
   "projects": {
-    "D:\\Temp\\C-\\Construct\\Construct\\Construct.csproj": {
+    "C:\\temp\\C#\\Construct\\Construct\\Construct.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Temp\\C-\\Construct\\Construct\\Construct.csproj",
+        "projectUniqueName": "C:\\temp\\C#\\Construct\\Construct\\Construct.csproj",
         "projectName": "Construct",
-        "projectPath": "D:\\Temp\\C-\\Construct\\Construct\\Construct.csproj",
-        "packagesPath": "C:\\Users\\pache\\.nuget\\packages\\",
-        "outputPath": "D:\\Temp\\C-\\Construct\\Construct\\obj\\",
+        "projectPath": "C:\\temp\\C#\\Construct\\Construct\\Construct.csproj",
+        "packagesPath": "C:\\Users\\l.pacheco\\.nuget\\packages\\",
+        "outputPath": "C:\\temp\\C#\\Construct\\Construct\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\pache\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\l.pacheco\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
