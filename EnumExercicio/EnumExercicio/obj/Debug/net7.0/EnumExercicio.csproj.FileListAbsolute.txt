@@ -1,0 +1,15 @@
+D:\Temp\C-\EnumExercicio\EnumExercicio\bin\Debug\net7.0\EnumExercicio.exe
+D:\Temp\C-\EnumExercicio\EnumExercicio\bin\Debug\net7.0\EnumExercicio.deps.json
+D:\Temp\C-\EnumExercicio\EnumExercicio\bin\Debug\net7.0\EnumExercicio.runtimeconfig.json
+D:\Temp\C-\EnumExercicio\EnumExercicio\bin\Debug\net7.0\EnumExercicio.dll
+D:\Temp\C-\EnumExercicio\EnumExercicio\bin\Debug\net7.0\EnumExercicio.pdb
+D:\Temp\C-\EnumExercicio\EnumExercicio\obj\Debug\net7.0\EnumExercicio.csproj.AssemblyReference.cache
+D:\Temp\C-\EnumExercicio\EnumExercicio\obj\Debug\net7.0\EnumExercicio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Temp\C-\EnumExercicio\EnumExercicio\obj\Debug\net7.0\EnumExercicio.AssemblyInfoInputs.cache
+D:\Temp\C-\EnumExercicio\EnumExercicio\obj\Debug\net7.0\EnumExercicio.AssemblyInfo.cs
+D:\Temp\C-\EnumExercicio\EnumExercicio\obj\Debug\net7.0\EnumExercicio.csproj.CoreCompileInputs.cache
+D:\Temp\C-\EnumExercicio\EnumExercicio\obj\Debug\net7.0\EnumExercicio.dll
+D:\Temp\C-\EnumExercicio\EnumExercicio\obj\Debug\net7.0\refint\EnumExercicio.dll
+D:\Temp\C-\EnumExercicio\EnumExercicio\obj\Debug\net7.0\EnumExercicio.pdb
+D:\Temp\C-\EnumExercicio\EnumExercicio\obj\Debug\net7.0\EnumExercicio.genruntimeconfig.cache
+D:\Temp\C-\EnumExercicio\EnumExercicio\obj\Debug\net7.0\ref\EnumExercicio.dll
